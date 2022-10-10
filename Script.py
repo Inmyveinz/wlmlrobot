@@ -2,16 +2,16 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}</b>
-✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sahid_nalik>Sahid malik</a>
+✯ <b>𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/wlmlrobot>WlMl</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
-✯ updates channel: <a href=https://t.me/m_house786>CLICK HERE</a>
-✯ Subscribe you tube channel: <a href=<a href=https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A>CLICK HERE</a></b>""" 
+✯ updates channel: <a href=https://t.me/wlmlupdates>CLICK HERE</a>
+✯ Our other bots: <a href=<a href=https://t.me/wlmlbingebot>WlMl Binge</a></b>""" 
     SOURCE_TXT = """<b>NOTE:</b>
-- <b>Movies house is a open source project. 
+- <b>WlMl is an initiative to create worlds largest movies library. 
 - Source 👉 <a href=https://t.me/malik_bots/8>CLICK HERE</a></b>
 
 <b>DEVS:</b>
@@ -96,7 +96,7 @@ This module only works for my admins
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/sahid_nalik>Sahid malik</a></b> """
+★ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/wlmlrobot>WlMl</a></b> """
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
@@ -114,7 +114,7 @@ I'm ⚡️ Powerful Auto-Filter Bot...
 Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...😎
 ⚠️ More Help Check Help Button Below
 
-©️Mantained Bʏ  @sahid_malik</b>"""
+©️Mantained Bʏ  WlMl</b>"""
 
     GHHM_TXT = """<b>7k User 💖 Thanks For Your Support...
 
@@ -149,7 +149,7 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/sahid_malik><b>sahid malik</b></a> ᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/wlmlrobot><b>WlMl</b></a> ᚛━━━━━━━━━━━━"""
     DINETTE_TXT =  """<b>Donation</b>
 
    <b>Developer is Super Noob..  Just Learning from Official Docs..  Please Donate the developer for Keeping the Service Alive...</b>
@@ -165,7 +165,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 ✮ 𝗣𝗮𝘆𝗣𝗮𝗹
 
 _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨_
-━━━━━━━━━━━━᚜ <a href=https://t.me/sahid_malik><b>sahid malik</b></a> ᚛━━━━━━━━━━━━"""
+━━━━━━━━━━━━᚜ <a href=https://t.me/wlmlrobot><b>WlMl</b></a> ᚛━━━━━━━━━━━━"""
 
 
     URLSHORT_TXT = """<b>➤ 𝐇𝐞𝐥𝐩: 𝖴𝗋𝗅 𝗌𝗁𝗈𝗋𝗍𝗇𝖾𝗋
@@ -229,7 +229,7 @@ _𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛�
 
 𝚆𝙾𝚁𝙺𝚂 𝙾𝙽𝙻𝚈 𝙾𝙽 𝙶𝚁𝙾𝚄𝙿
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/sahid_malik>Sahid malik</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 :- <a href=https://t.me/wlmlrobot>WlMl</b></a>"""
 
 
     FILESTORE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
@@ -316,7 +316,7 @@ I'm ⚡️ Powerful Auto-Filter Bot...
 Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...😎
 ⚠️ More Help Check Help Button Below
 
-©️Mantained Bʏ  @sahid_malik</b>"""
+©️Mantained Bʏ  WlMl</b>"""
 
 M_NT_FND = """<b>⭕️ This Movie Not Found my Database. Request to admin..\n\n⭕️ Ye movie Hamare database me Available nahi hai Niche admin se request kare... \n\n⭕️ Request to admin.. 👇</b>"""
 
